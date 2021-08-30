@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obskurcyte&label=Profile%20views&color=0e75b6&style=flat" alt="obskurcyte" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obskurcyte" alt="obskurcyte" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadrijau" alt="hadrijau" /></a> </p>
 
 - 🔭 I’m currently working on **MaxAndLea**
 
