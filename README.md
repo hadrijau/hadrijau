@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hadrien</h1>
-<h3 align="center">A passionate fullstack developer from France</h3>
+<h3 align="center">A MEng student in the top-notch French university @CentraleSupelec. I am currently a part of the Digital Tech Year program; a yearlong intensive program focused on Artificial Intelligence technologies and Full Stack development. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obskurcyte&label=Profile%20views&color=0e75b6&style=flat" alt="obskurcyte" /> </p>
 
