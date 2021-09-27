@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **VueJs and Angular**
 
-- 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
+- 👨‍💻 All of my projects are available at <a href="https://www.hadrienjaubert.com/" target="blank"/>
 
 - 📫 How to reach me **hadrien.jaubert@centrale-marseille.fr**
 
