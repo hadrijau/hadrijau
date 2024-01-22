@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadrijau" alt="hadrijau" /></a> </p>
 
-- 🔭 I’m currently looking for **six-month internship as a software developer**
+- 🔭 I am a software engineer working at **Google**
 
 - 🌱 I’m currently learning **VueJs and Angular**
 
 - 👨‍💻 All of my projects are available on <a href="https://www.hadrienjaubert.com/" target="blank">my website</a>
 
-- 📫 How to reach me **hadrien.jaubert@centrale-marseille.fr**
+- 📫 How to reach me **hadrien.jaubert99@gmail.com**
 
 - 📄 Know about my experiences [coming soon](coming soon)
 
