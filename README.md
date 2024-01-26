@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hadrien</h1>
-<h3 align="center">A MEng student in the top-notch French university @CentraleSupelec. I am currently enrolled in a master of cybersecurity.</h3>
+<h3 align="center">A software engineer working at Google</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obskurcyte&label=Profile%20views&color=0e75b6&style=flat" alt="obskurcyte" /> </p>
 
